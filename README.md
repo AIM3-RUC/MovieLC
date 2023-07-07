@@ -1,4 +1,4 @@
-This is the MovieLC dataset and code for the paper "(Knowledge Enhanced Model for Live Video Comment Generation)[https://arxiv.org/pdf/2304.14657.pdf]".
+This is the MovieLC dataset and code for the paper "[Knowledge Enhanced Model for Live Video Comment Generation](https://arxiv.org/pdf/2304.14657.pdf)".
 # Introduction
 The “live video commenting” feature on video platforms allows users to comment at any time while watching a video, and the comments instantly slide across the video screen, making users feel like watching together with others. Automatically generating live video comments can improve user experience and enable human-like generation for bot chatting. \
 Our main contribution are:
