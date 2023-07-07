@@ -1,4 +1,4 @@
-The Code are references the work [Livebot](https://github.com/lancopku/livebot) and [UniVL](https://github.com/microsoft/UniVL)
+This Code refers to the work [Livebot](https://github.com/lancopku/livebot) and [UniVL](https://github.com/microsoft/UniVL)
 # Requirements
 + python>=3.7.0
 + torch==1.7.1
