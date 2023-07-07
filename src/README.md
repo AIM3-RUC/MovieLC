@@ -8,7 +8,9 @@ This Code refers to the work [Livebot](https://github.com/lancopku/livebot), [Vi
 + requests==2.31.0
 
 # Run Model
-Firstly, please download the `processed data` folder, put it under the folder `MovieLC/data`. Then, come to the folder `cd MovieLC/src/KLVCG`
+## Preparing
+Download `processed data` and put it under `MovieLC/data`. \
+Come to the folder `cd MovieLC/src/KLVCG`
 
 ## Pretrain
 We use external knowledge from both knowledge graph and comments of other videos in the pre-training stage.
