@@ -19,3 +19,5 @@ The Movie Live Comments (MovieLC) dataset contains 1,406,219 live comments from 
     journal={arXiv preprint arXiv:2304.14657},
     year={2023}
     }
+
+If you have any questions about Video dataset, please contact us by jietingchen23@outlook.com
